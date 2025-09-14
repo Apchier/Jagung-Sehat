@@ -1,4 +1,4 @@
-import { FaGithub, FaInstagram, FaFacebook } from "react-icons/fa";
+import { FaGithub, FaInstagram, FaFacebookF } from "react-icons/fa";
 {/* import Logo from '../../../public/assets/image/logo.png' */}
 
 const Footer = () => {
@@ -52,7 +52,7 @@ const Footer = () => {
                         rel="noopener noreferrer"
                         className="text-white hover:text-white/80 mt-1"
                       >
-                        <FaFacebook size={22} />
+                        <FaFacebookF size={22} />
                       </a>
                     </div>
                 </div>
