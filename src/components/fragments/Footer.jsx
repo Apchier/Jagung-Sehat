@@ -26,7 +26,7 @@ const Footer = () => {
                     </div>
 
                     {/* Kanan - Ikuti Kami */}
-                    <div className="flex flex-col items-end md:items-center md:items-end text-center md:text-right">
+                    <div className="flex flex-col items-center md:items-end text-center md:text-right mx-auto md:mx-0">
                         <p className="font-semibold mb-1">Ikuti kami</p>
                         <a
                             href="https://github.com/Ra-Ghofur"
