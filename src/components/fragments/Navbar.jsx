@@ -129,8 +129,8 @@ export const Navbar = () => {
                 >
                     <img
                         src="/assets/image/logo_1.png"
-                        alt="Logo Dinas Pertania"
-                        className="h-10 w-10 mr-2"
+                        alt="Logo Dinas Pertanian"
+                        className="h-12 w-auto"
                     />
                     <span className={`text-2xl font-bold transition-colors duration-300  
                         ${isScrolled
