@@ -32,7 +32,7 @@ const Footer = () => {
                             href="https://github.com/Ra-Ghofur"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-white hover:text-white/80 mt-1"
+                            {/*className="text-white hover:text-white/80 mt-1"*/}
                         >
                             <FaGithub size={22} color="black"/>
                         </a>
@@ -41,7 +41,7 @@ const Footer = () => {
                         href="https://instagram.com/ra.ghofur"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-white hover:text-white/80 mt-1"
+                        {/* className="text-white hover:text-white/80 mt-1"*/}
                       >
                         <FaInstagram size={22} color="black"/>
                       </a>
