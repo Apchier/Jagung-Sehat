@@ -1,4 +1,5 @@
-import { FaGithub, FaInstagram, FaFacebookF } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
+import { FaInstagram, FaFacebook } from "react-icons/fa6";
 {/* import Logo from '../../../public/assets/image/logo.png' */}
 
 const Footer = () => {
@@ -50,9 +51,9 @@ const Footer = () => {
                         href="https://facebook.com/abdulghofur"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-white hover:text-white/80 mt-1"
+                          {/* className="text-white hover:text-white/80 mt-1" */}
                       >
-                        <FaFacebookF size={22} color="black"/>
+                        <FaFacebook size={22} color="black"/>
                       </a>
                     </div>
                 </div>
