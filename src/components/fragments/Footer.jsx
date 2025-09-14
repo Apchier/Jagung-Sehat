@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-sm text-white/90">
 
                     {/* Kiri - Logo & Slogan */}
-                        <div className="flex flex-col items-center md:items-start text-center md:text-left>
+                        <div className="flex flex-col items-center md:items-start text-center md:text-left">
                             <div className="flex items-center gap-3 mb-2">
                             <img src={Logo} alt="Logo" className="h-10 w-10 drop-shadow-md" />
                             <span className="text-xl font-bold drop-shadow-sm">JAGAT</span>
@@ -26,7 +26,7 @@ const Footer = () => {
                     </div>
 
                     {/* Kanan - Ikuti Kami */}
-                    <div className="flex flex-col items-end md:items-center md:items-end text-center md:text-right"">
+                    <div className="flex flex-col items-end md:items-center md:items-end text-center md:text-right">
                         <p className="font-semibold mb-1">Ikuti kami</p>
                         <a
                             href="https://github.com/Ra-Ghofur"
