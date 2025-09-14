@@ -34,7 +34,7 @@ const Footer = () => {
                             rel="noopener noreferrer"
                             className="text-white hover:text-white/80 mt-1"
                         >
-                            <FaGithub size={22} />
+                            <FaGithub size={22} color="black"/>
                         </a>
                         {/* Link Instagram */}
                       <a
@@ -43,7 +43,7 @@ const Footer = () => {
                         rel="noopener noreferrer"
                         className="text-white hover:text-white/80 mt-1"
                       >
-                        <FaInstagram size={22} />
+                        <FaInstagram size={22} color="black"/>
                       </a>
                          {/* Link Facebook */}
                       <a
@@ -52,7 +52,7 @@ const Footer = () => {
                         rel="noopener noreferrer"
                         className="text-white hover:text-white/80 mt-1"
                       >
-                        <FaFacebookF size={22} />
+                        <FaFacebookF size={22} color="black"/>
                       </a>
                     </div>
                 </div>
