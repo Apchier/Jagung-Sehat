@@ -1,6 +1,4 @@
-import { Github } from 'lucide-react';
-import { Instagram } from 'lucide-react';
-import { Facebook } from 'lucide-react';
+import { FaGithub, FaInstagram, FaFacebook } from "react-icons/fa";
 import Logo from '../../../public/assets/image/logo.png'
 
 const Footer = () => {
@@ -36,7 +34,7 @@ const Footer = () => {
                             rel="noopener noreferrer"
                             className="text-white hover:text-white/80 mt-1"
                         >
-                            <Github size={22} />
+                            <FaGithub size={22} />
                         </a>
                         {/* Link Instagram */}
                       <a
@@ -45,7 +43,7 @@ const Footer = () => {
                         rel="noopener noreferrer"
                         className="text-white hover:text-white/80 mt-1"
                       >
-                        <Instagram size={22} />
+                        <FaInstagram size={22} />
                       </a>
                          {/* Link Facebook */}
                       <a
@@ -54,7 +52,7 @@ const Footer = () => {
                         rel="noopener noreferrer"
                         className="text-white hover:text-white/80 mt-1"
                       >
-                        <Facebook size={22} />
+                        <FaFacebook size={22} />
                       </a>
                     </div>
                     </div>
