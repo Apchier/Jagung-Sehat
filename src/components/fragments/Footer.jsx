@@ -21,8 +21,8 @@ const Footer = () => {
                     {/* Tengah - Kontak */}
                     <div className="flex flex-col items-center text-center">
                         <p className="font-semibold mb-1">Kontak Kami</p>
-                        <p>Email: <a href="mailto:jagat@email.com" className="hover:underline">jagat@email.com</a></p>
-                        <p>Telepon: <a href="tel:+6281234567890" className="hover:underline">+62 812-3456-7890</a></p>
+                        <p>Email: <a href="mailto:abd.ghofur018@gmail.com" className="hover:underline">abd.ghofur018@gmail.com</a></p>
+                        <p>Telepon: <a href="tel:+6281334721971" className="hover:underline">+62 813-3472-1971</a></p>
                     </div>
 
                     {/* Kanan - Ikuti Kami */}
