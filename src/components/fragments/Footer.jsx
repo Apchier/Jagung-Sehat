@@ -43,11 +43,17 @@ const Footer = () => {
                 <div className="border-t border-white/30"></div>
 
                 {/* Bagian Bawah */}
-                <div className="text-center text-sm text-white/80 space-x-4">
+                {/*     <div className="text-center text-sm text-white/80 space-x-4">
                     <span className="hover:underline">Terms & Conditions</span>
                     <span className="hover:underline">Privacy Policy</span>
                     <span>© 2025 Dinas Pertanian TPHP KAB. BANGKALAN</span>
+                </div> */}
+                <div className="text-center text-sm text-white/80 flex flex-col md:flex-row md:justify-center md:space-x-4 space-y-2 md:space-y-0">
+                      <span className="hover:underline">Terms & Conditions</span>
+                      <span className="hover:underline">Privacy Policy</span>
+                      <span>© 2025 Dinas Pertanian TPHP KAB. BANGKALAN</span>
                 </div>
+
             </div>
         </footer>
     )
