@@ -1,5 +1,5 @@
 import { FaGithub, FaInstagram, FaFacebook } from "react-icons/fa";
-import Logo from '../../../public/assets/image/logo.png'
+{/* import Logo from '../../../public/assets/image/logo.png' */}
 
 const Footer = () => {
     return (
@@ -12,7 +12,7 @@ const Footer = () => {
                     {/* Kiri - Logo & Slogan */}
                         <div className="flex flex-col items-center md:items-start text-center md:text-left">
                             <div className="flex items-center gap-3 mb-2">
-                            <img src={Logo} alt="Logo" className="h-10 w-10 drop-shadow-md" />
+                            <img src="/assets/image/logo.png" alt="Logo" className="h-10 w-10 drop-shadow-md" />
                             <span className="text-xl font-bold drop-shadow-sm">JAGAT</span>
                         </div>
                         <p className="max-w-sm">Temukan dan lestarikan kekayaan tanaman jagung Indonesia lewat teknologi.</p>
