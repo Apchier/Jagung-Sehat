@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 import { useNavigate } from 'react-router-dom'; // <--- Import useNavigate
-import Logo from '../../../public/assets/image/logo_1.png';
+import Logo from '../../../public/assets/image/logo.png';
 import NavButton from '../ui/NavDekstopButton';
 import NavMobileButton from '../ui/NavMobileButton';
 
@@ -128,8 +128,8 @@ export const Navbar = () => {
                     className="flex items-center cursor-pointer"
                 >
                     <img
-                        src={logo_1}
-                        alt="Logo"
+                        src="/assets/image/logo_1.png"
+                        alt="Logo Dinas Pertania"
                         className="h-10 w-10 mr-2"
                     />
                     <span className={`text-2xl font-bold transition-colors duration-300  
