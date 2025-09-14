@@ -29,7 +29,7 @@ const Footer = () => {
                     <div className="flex flex-col items-end md:items-center">
                         <p className="font-semibold mb-1">Ikuti kami</p>
                         <a
-                            href="https://github.com/sionpardosi/JagungSehat.git"
+                            href="https://github.com/Ra-Ghofur"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-white hover:text-white/80 mt-1"
@@ -46,7 +46,7 @@ const Footer = () => {
                 <div className="text-center text-sm text-white/80 space-x-4">
                     <span className="hover:underline">Terms & Conditions</span>
                     <span className="hover:underline">Privacy Policy</span>
-                    <span>© 2025 Corn Leaves. All Rights Reserved.</span>
+                    <span>© 2025 Dinas Pertanian TPHP KAB. BANGKALAN</span>
                 </div>
             </div>
         </footer>
