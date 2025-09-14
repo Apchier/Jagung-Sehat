@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 import { useNavigate } from 'react-router-dom'; // <--- Import useNavigate
-import Logo from '../../../public/assets/image/logo.png';
+import Logo from '../../../public/assets/image/logo_1.png';
 import NavButton from '../ui/NavDekstopButton';
 import NavMobileButton from '../ui/NavMobileButton';
 
