@@ -47,7 +47,7 @@ const Footer = () => {
                       </a>
                          {/* Link Facebook */}
                       <a
-                        href="https://facebook.com/Abdul Ghofur"
+                        href="https://facebook.com/abdulghofur"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-white hover:text-white/80 mt-1"
