@@ -36,6 +36,25 @@ const Footer = () => {
                         >
                             <Github size={22} />
                         </a>
+                        {/* Link Instagram */}
+                      <a
+                        href="https://instagram.com/ra.ghofur"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-white hover:text-white/80 mt-1"
+                      >
+                        <Instagram size={22} />
+                      </a>
+                         {/* Link Facebook */}
+                      <a
+                        href="https://facebook.com/Abdul Ghofur"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-white hover:text-white/80 mt-1"
+                      >
+                        <Facebook size={22} />
+                      </a>
+                    </div>
                     </div>
                 </div>
 
