@@ -55,7 +55,6 @@ const Footer = () => {
                         <FaFacebook size={22} />
                       </a>
                     </div>
-                    </div>
                 </div>
 
                 {/* Garis Pemisah */}
