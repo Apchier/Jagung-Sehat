@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-sm text-white/90">
 
                     {/* Kiri - Logo & Slogan */}
-                    <div className="flex flex-col items-start">
+                    <div className="flex items-center gap-3 mb-2">
                         <div className="flex flex-col items-center md:items-start text-center md:text-left>
                             <img src={Logo} alt="Logo" className="h-10 w-10 drop-shadow-md" />
                             <span className="text-xl font-bold drop-shadow-sm">JAGAT</span>
