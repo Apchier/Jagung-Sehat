@@ -132,12 +132,12 @@ export const Navbar = () => {
                         alt="Logo Dinas Pertanian"
                         className="h-12 w-auto mr-2"
                     />
-                    <span className={`text-2xl font-bold transition-colors duration-300  
+            {/*       <span className={`text-2xl font-bold transition-colors duration-300  
                         ${isScrolled
                             ? 'text-green-primary'
                             : 'text-white drop-shadow-md'}`}>
                         JAGAT
-                    </span>
+                    </span> */}
                 </a>
 
                 {/* Desktop Navigation */}
