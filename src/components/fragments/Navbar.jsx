@@ -128,7 +128,7 @@ export const Navbar = () => {
                     className="flex items-center cursor-pointer"
                 >
                     <img
-                        src={Logo}
+                        src={Logo_1}
                         alt="Logo"
                         className="h-10 w-10 mr-2"
                     />
