@@ -44,7 +44,7 @@ const Footer = () => {
                         rel="noopener noreferrer"
                         {/* className="text-white hover:text-white/80 mt-1"*/}
                       >
-                        <FaInstagram size={22} color="black"/>
+                        <FaInstagram size={22} color="white"/>
                       </a>
                          {/* Link Facebook */}
                       <a
