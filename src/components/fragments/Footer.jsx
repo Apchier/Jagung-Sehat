@@ -30,7 +30,7 @@ const Footer = () => {
                     <div className="flex flex-col items-center md:items-end text-center md:text-right mx-auto md:mx-0">
                         <p className="font-semibold mb-1">Ikuti kami</p>
                         <a
-                            href="https://github.com"
+                            href="https://github.com/"
                             target="_blank"
                             rel="noopener noreferrer"
                             {/*className="text-white hover:text-white/80 mt-1"*/}
