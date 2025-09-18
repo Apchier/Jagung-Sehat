@@ -47,7 +47,7 @@ const Footer = () => {
                             </a>
                             {/* Link Facebook */}
                             <a
-                                href="https://facebook.com/abdulghofur"
+                                href="https://www.facebook.com/share/1FzokEJr2j/?mibextid=wwXIfr"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
