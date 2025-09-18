@@ -1,4 +1,4 @@
-import { FaGithub } from "react-icons/fa";
+import { FaSquareThreads } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
 
@@ -31,11 +31,11 @@ const Footer = () => {
                         <p className="font-semibold mb-1">Ikuti kami</p>
                         <div className="flex items-center gap-4">
                             <a
-                                href="https://jagung-sehat.vercel.app/"
+                                href="https://www.threads.com/@ra.ghofur?igshid=NTc4MTIwNjQ2YQ=="
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                <FaGithub size={22} color="white" />
+                                <FaSquareThreads size={22} color="white"/>
                             </a>
                             {/* Link Instagram */}
                             <a
